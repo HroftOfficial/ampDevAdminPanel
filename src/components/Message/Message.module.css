@@ -1,0 +1,129 @@
+.senderName {
+	background-color: darkred;
+	color: white;
+	font-size: 1.1Rem;
+	padding: 2px;
+}
+
+.message {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}
+
+.messageTop,
+.messageTopOwn {
+	display: flex;
+	align-items: center;
+}
+
+.messageImg {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-right: 10px;
+}
+
+.messageText {
+	padding: 10px;
+	border-radius: 20px;
+	background-color: rgb(241, 236, 236);
+	overflow-wrap: break-word;
+	color: #313336;
+	margin: 0;
+	max-width: 300px;
+}
+
+.themeText {
+	color: #ebebeb;
+	padding: 5px;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #00aeae;
+	text-align: center;
+	border-radius: 10px 10px 0 0;
+	margin-bottom: 5px;
+}
+
+.themeTextOwn {
+	color: #4b525c;
+	padding: 5px;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #ebebeb;
+	text-align: center;
+	border-radius: 10px 10px 0 0;
+	margin-bottom: 5px;
+}
+
+.messageBottom {
+	font-size: 12px;
+	margin-top: 10px;
+	text-align: end;
+}
+
+.messageBottomOwn {
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.message.own {
+	align-items: flex-end;
+}
+
+.message.own .messageText {
+	background-color: #abebc3;
+}
+
+.messageTop:before {
+	content: '';
+	/* position: absolute; */
+	position: relative;
+	right: 0%;
+	bottom: 10px;
+	width: 0;
+	height: 0;
+	/* border-top: 12px solid transparent; */
+	border-right: 13px solid #ebebeb;
+	border-bottom: 13px solid transparent;
+}
+
+.messageTopOwn:after {
+	content: '';
+	/* position: absolute; */
+	position: relative;
+	left: 0%;
+	top: 10%;
+	width: 0;
+	border-top: 13px solid transparent;
+	border-left: 13px solid #abebc3;
+	/* border-bottom: 12px solid transparent; */
+}
+
+.messageFile {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 250px;
+	border-radius: 10px;
+	background-color: rgba(209, 209, 209, 0.5);
+}
+
+.messageFile p {
+	width: 130px;
+	word-break: break-all;
+	text-align: center;
+}
+
+@media (max-width: 850px) {
+	.messageText {
+		max-width: 250px;
+	}
+	.messageFile {
+		width: 200px;
+		flex-wrap: wrap;
+	}
+}
+
+

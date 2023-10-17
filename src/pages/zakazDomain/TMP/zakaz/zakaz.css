@@ -1,0 +1,299 @@
+.user {
+  flex: 4;
+  padding: 20px;
+}
+
+.userTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.userContainer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.userShow {
+  flex: 1;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.userUpdate {
+  flex: 4;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+
+.userShowTop {
+  display: flex;
+  align-items: center;
+}
+
+.userShowImg {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.userShowTopTitle {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.userShowUsername {
+  font-weight: 600;
+}
+
+.userShowUserTitle {
+  font-weight: 300;
+}
+
+.userShowBottom{
+    margin-top: 20px;
+}
+
+.userShowTitle {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(175, 170, 170);
+}
+
+.userShowTitlePassword {
+  font-size: 18px;
+  font-weight: 800;
+  color: rgb(197, 12, 12);
+}
+
+.userShowInfo{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    color: #444;
+}
+
+.userShowIcon{
+    font-size: 16px !important;
+}
+
+.userShowInfoTitle{
+    margin-left: 10px;
+}
+
+.userUpdateTitle{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.userUpdateForm{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.userUpdateItem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.userUpdateItem>label{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.userUpdateInput{
+    border: none;
+    width: 250px;
+    height: 30px;
+    border-bottom: 1px solid gray;
+}
+
+.userUpdateRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.userUpdateUpload{
+    display: flex;
+    align-items: center;
+}
+
+.userUpdateImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.userUpdateIcon{
+    cursor: pointer;
+}
+
+/* .userUpdateButton{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+    font-weight: 600;
+} */
+
+.UserSelect{
+  height: 40px;
+  border-radius: 5px;
+}
+
+.userUpdateButton{
+  width: 200px;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  padding: 17px 10px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+.changeCitiesButton {
+  height: 55px;
+  border: none;
+  padding: 5px 10px;
+  background-color: rgb(12, 10, 145);
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+  display: block;
+}
+
+.citiesInfo {
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: darkblue;
+  text-transform: uppercase;
+}
+
+.citiesInfoTitle {
+  font-weight: bold;
+  color: darkblue;
+  text-transform: uppercase;
+}
+
+.legendToms {
+  text-align: center;
+  width: 100%;
+  font-size: 1.8rem ;
+  /* padding: 10px !important; */
+  padding-top: 30px;
+  color:darkblue !important;
+  font-weight: 700;
+}
+
+.logoArea {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1200px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  align-items: center;
+}
+
+.dialogImg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dialogTitle {
+  padding: 10px;
+  color: darkblue;
+  font-weight: bold;
+}
+
+.imglogoArea {
+  display: flex;
+  /* flex-direction: row; */
+  flex-direction: column
+  ;}
+
+.imglogoImages {
+  width: 100%;
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+  /* flex:1; */
+  padding: 20px;
+}
+.imgcurrentLogo {
+  display: flex;
+  flex:1;
+  justify-content: center;
+}
+
+.imgnewLogo {
+  display: flex;
+  flex:1;
+  justify-content: center;
+}
+
+.imgimageButton {
+
+    width: 400px;
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 17px 10px;
+    font-weight: 600;
+    border-radius: 5px;
+    /* margin-top: 30px; */
+    cursor: pointer;
+
+}
+
+.imgnewLogo img {
+  max-width: 300px;
+}
+
+.imgLogoBatton {
+  display: flex;
+  flex:1;
+  justify-content: flex-start;
+}
+
+.titleFiles {
+  color:red;
+  font-weight: bold;
+  font-size: 32px;
+}

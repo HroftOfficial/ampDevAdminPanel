@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.containerLogin {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+}
+
+.avatarColor {
+  background-color: pink;
+}
+
+.super-news-theme--true, 
+.super-user-amp-theme--true, 
+.super-zakaz-t-theme--true {
+  background-color: lightcoral !important;
+  color:azure !important;
+  font-weight: 700;
+}

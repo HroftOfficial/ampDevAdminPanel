@@ -1,0 +1,110 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	padding: 98px 66px 42px;
+	max-width: 1200px;
+	box-sizing: content-box;
+}
+
+.wrapper h2 {
+	font-weight: 500;
+	font-size: 24px;
+	color: #333333;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	width: 100%;
+	box-sizing: content-box;
+}
+
+.topForm {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin-bottom: 30px;
+}
+
+.actionMenu {
+	display: flex;
+	margin-top: 35px;
+	font-size: 20px;
+	text-decoration-line: underline;
+	border: none;
+	background-color: inherit;
+	color: #00aeae;
+}
+
+.inputWrapper {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+
+.errorMessage {
+	position: absolute;
+	color: red;
+	bottom: 50px;
+}
+
+.stackChips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.upload {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	margin-top: 40px;
+}
+
+.fileBlock > label {
+	font-size: 2rem;
+	color: #00aeae;
+	font-weight: 600;
+}
+
+.newUserFormItem {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.fileBlock {
+	width: 100%;
+	padding: 10px 0;
+}
+
+.fileBlock > label {
+	font-size: 2rem;
+	color: rgb(12, 12, 159);
+	font-weight: 600;
+}
+
+.ownerInfo {
+	display: flex;
+	flex-direction: column;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+.ownList {
+	columns: 2;
+	margin-top: 20px;
+}
+
+.ownListLabel {
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+.legend {
+	font-size: 1.8rem;
+	font-weight: 500;
+	text-align: center;
+	color: darkblue;
+	margin: 15px;
+}

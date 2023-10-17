@@ -1,0 +1,114 @@
+.editUser {
+  flex: 4;
+}
+
+.editUserTitle {
+  color: coral;
+}
+
+.editUserPortalForm {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.editUserItem {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.editUserItem > label {
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(151, 150, 150);
+}
+
+.editUserItem > input {
+  height: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.editUserGender > input {
+  margin-top: 15px;
+}
+
+.editUserGender>label{
+    margin: 10px;
+    font-size: 18px;
+    color: #555;
+}
+
+.editUserSelect{
+    height: 40px;
+    border-radius: 5px;
+}
+
+.editUserButton{
+    /* width: 200px; */
+    width: 100%;
+    border: none;
+    background-color: darkblue;
+    color: white;
+    padding: 7px 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.editUserErrorMessage {
+  color: coral;
+  padding-top: 20px;
+  font-weight: 600;
+}
+
+.tomsAreaForm {
+  /* display: flex;
+  flex-wrap: wrap;
+  flex-direction: column; */
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tomsArea {
+  column-count: 3;
+}
+
+.workGroupArea {
+  column-count: 3;
+}
+
+.legendToms {
+  text-align: center;
+  width: 100%;
+  font-size: 1.8rem ;
+  /* padding: 10px !important; */
+  padding-top: 30px;
+  color:darkblue ;
+  font-weight: 700;
+}
+
+.imageButton {
+  width: 100% !important;
+  height: 55px !important;
+}
+
+.createUserButton{
+  /* width: 200px; */
+  width: 100%;
+  height: 60px;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  padding: 7px 10px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}

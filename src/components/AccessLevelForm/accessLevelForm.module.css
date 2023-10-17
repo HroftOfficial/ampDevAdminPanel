@@ -1,0 +1,13 @@
+.workGroupArea {
+	column-count: 3;
+}
+
+.legendToms {
+	text-align: center;
+	width: 100%;
+	font-size: 1.8rem;
+	/* padding: 10px !important; */
+	padding-top: 30px;
+	color: darkblue;
+	font-weight: 700;
+}

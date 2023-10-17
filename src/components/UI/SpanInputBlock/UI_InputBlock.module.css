@@ -1,0 +1,27 @@
+.input {
+    display: flex;
+    padding: 15px;
+    border: 1px solid #BFBFBF;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    color: black;
+    font-size: 16px;
+}
+
+.input__label {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .input__label__err {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 10px 0;
+    color: red;
+  }

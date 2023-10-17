@@ -1,0 +1,91 @@
+.newsListCreateWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.newsList {
+  flex: 4;
+}
+
+.newNewsTitle {
+  color: coral;
+}
+
+.newsListnews {
+  display: flex;
+  align-items: center;
+}
+
+.newsListImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.newsListEdit{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #3bb077;
+    color: white;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.newsListEdit {
+  /* width: 80px; */
+  border: none;
+  padding: 5px;
+  background-color: #3bb077;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 14px;
+}
+
+.newsListDelete {
+    color: red;
+    cursor: pointer;
+}
+
+.actionStyle a {
+  color: darkblue;
+}
+.actionStyle {
+  display: flex !important;
+  justify-content: space-between !important;
+  width: 200px !important;
+}
+
+.dialogLabel {
+  padding: 10px 0;
+}
+
+.super-app-theme--true {
+  background-color: lightcoral !important;
+  /* color:azure !important; */
+}
+
+
+.newsListCreateWrapper2 {
+  display: block;
+  padding: 20px;
+  width: 180px;
+}
+
+.super-app-theme--header--action {
+  display: flex !important;
+  min-width: 180px !important;
+  font-weight: bold !important;
+}
+
+
+.editCell {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+}

@@ -1,0 +1,47 @@
+.newZakaz {
+  flex: 4;
+}
+
+.newZakazTitle {
+  color: coral;
+}
+
+.newZakazForm {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.newZakazItem {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.newZakazItem > img {
+  margin-bottom: 20px;
+}
+
+.newZakazItem > label {
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(151, 150, 150);
+}
+
+.newZakazItem > input {
+  height: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.wrapper {
+  height: 600px;
+  /* overflow-y: scroll; */
+}
+
+.btn {
+  padding: 20px 0px;
+}

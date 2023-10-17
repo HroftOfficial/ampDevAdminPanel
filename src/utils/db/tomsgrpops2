@@ -1,0 +1,8 @@
+{"_id":ObjectId("604f1c954b2ca10006d44413"),"name_eng":"tooling","name_rus":"Механическая обработка "}
+{"_id":ObjectId("604f1cb24b2ca10006d44415"),"name_eng":"heatteatments","name_rus":"Термическая обработка"}
+{"_id":ObjectId("604f1cd14b2ca10006d44417"),"name_eng":"cuttings","name_rus":"Резка металла"}
+{"_id":ObjectId("604f1cee4b2ca10006d44419"),"name_eng":"ductiles","name_rus":"Гибка металла"}
+{"_id":ObjectId("604f1d0f4b2ca10006d4441b"),"name_eng":"weldings","name_rus":"Сварочные работы"}
+{"_id":ObjectId("604f1d2e4b2ca10006d4441d"),"name_eng":"castings","name_rus":"Литьё металла"}
+{"_id":ObjectId("604f1d494b2ca10006d4441f"),"name_eng":"processins","name_rus":"Обработка металлов давлением"}
+{"_id":ObjectId("604f1d614b2ca10006d44421"),"name_eng":"services","name_rus":"Прочие услуги металлообработки"}

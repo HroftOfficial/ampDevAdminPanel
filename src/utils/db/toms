@@ -1,0 +1,162 @@
+{"_id":{"$oid":"61fb9363caf8c200061503e5"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c685","name":"Механическая обработка ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503e6"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c686","name":"ГОСТ/ОСТ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503e7"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c687","name":"Долбёжная/зубодолбежная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503e8"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c688","name":"Зенкерование отверстий","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503e9"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c689","name":"Зубофрезерная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ea"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68a","name":"Зубошлифовальные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503eb"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68b","name":"Координатно-расточные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ec"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68c","name":"Круглошлифовальные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ed"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68d","name":"Накатка резьбы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ee"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68e","name":"Нарезание резьбы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ef"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c68f","name":"Плоскошлифовальные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f0"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c690","name":"Протягивание","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f1"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c691","name":"Развертывание отверстий","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f2"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c692","name":"Расточные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f3"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c693","name":"Резьбошлифовальные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f4"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c694","name":"Сверление","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f5"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c695","name":"Строгальная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f6"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c696","name":"Токарная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f7"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c697","name":"Токарно-автоматные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f8"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c698","name":"Хонингование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503f9"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c699","name":"Шлифование внутренних поверхностей ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503fa"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c69a","name":"Шлицефрезерная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503fb"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c69b","name":"Электроэрозионная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503fc"},"tomsgroup_key":"604f1c954b2ca10006d44413","id_name":"5f51fda156a0c50b1a44c69c","name":"Прочая мех. обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503fd"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c69d","name":"Термическая обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503fe"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c69e","name":"Азотирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c200061503ff"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c69f","name":"Алитирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150400"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a0","name":"Анодирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150401"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a1","name":"Борирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150402"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a2","name":"Бороалитирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150403"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a3","name":"Газодинамическое напыление","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150404"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a4","name":"Газотермическое напыление","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150405"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a5","name":"Гальваническое покрытие (медь/никель/хром/цинк)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150406"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a6","name":"Дисперсное твердение","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150407"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a7","name":"Закалка ТВЧ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150408"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a8","name":"Карбонитрация","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150409"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6a9","name":"Криогенная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040a"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6aa","name":"Многослойное покрытие медью/никелем/хромом","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040b"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6ab","name":"Нитроцементация","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040c"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6ac","name":"Нормализация","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040d"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6ad","name":"Объёмная закалка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040e"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6ae","name":"Оксидирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615040f"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6af","name":"Отжиг металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150410"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b0","name":"Отпуск металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150411"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b1","name":"Плакирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150412"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b2","name":"Поверхностная закалка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150413"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b3","name":"Силицирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150414"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b4","name":"Сорбитизация","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150415"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b5","name":"Термодиффузионное цинкование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150416"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b6","name":"Травление металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150417"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b7","name":"Улучшение металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150418"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b8","name":"Химическое фосфатирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150419"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6b9","name":"Хромоалитирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041a"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6ba","name":"Хромосилицирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041b"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6bb","name":"Цементация","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041c"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6bc","name":"Цианирование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041d"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6bd","name":"Электролитно-плазменная полировка (ЭПП)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041e"},"tomsgroup_key":"604f1cb24b2ca10006d44415","id_name":"5f51fda156a0c50b1a44c6be","name":"Электрохимическая полировка металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615041f"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6bf","name":"Резка металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150420"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c0","name":"Газовая/газопламенная/кислородная резка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150421"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c1","name":"Гидроабразивная резка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150422"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c2","name":"Лазерная резка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150423"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c3","name":"Плазменная резка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150424"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c4","name":"Поперечная резка рулонной стали поперечная/продольная","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150425"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c5","name":"Резка на ленточнопильном станке","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150426"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c6","name":"Резка пресс-ножницами","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150427"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c7","name":"Рубка на гильотинных ножницах","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150428"},"tomsgroup_key":"604f1cd14b2ca10006d44417","id_name":"5f51fda156a0c50b1a44c6c8","name":"Фигурная резка труб","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150429"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6c9","name":"Гибка металла ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042a"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6ca","name":"Вальцовка листового металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042b"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6cb","name":"Вальцовка профиля","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042c"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6cc","name":"Вальцовка пруткового металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042d"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6cd","name":"Вальцовка трубы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042e"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6ce","name":"3D гибка проволоки","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615042f"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6cf","name":"Гибка листового металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150430"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6d0","name":"Гибка на прессе","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150431"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6d1","name":"Гибка профиля","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150432"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6d2","name":"Гибка пруткового металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150433"},"tomsgroup_key":"604f1cee4b2ca10006d44419","id_name":"5f51fda156a0c50b1a44c6d3","name":"Гибка трубы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150434"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d4","name":"Сварочные работы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150435"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d5","name":"Аргонная (аргонодуговая) сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150436"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d6","name":"Газовая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150437"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d7","name":"Газопрессовая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150438"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d8","name":"Диффузионная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150439"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6d9","name":"Дугопрессовая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043a"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6da","name":"Контактная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043b"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6db","name":"Кузнечная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043c"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6dc","name":"Лазерная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043d"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6dd","name":"Наплавка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043e"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6de","name":"Пайка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615043f"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6df","name":"Полуавтоматическая дуговая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150440"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e0","name":"Роботизированная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150441"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e1","name":"Ручная дуговая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150442"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e2","name":"Сварка арматуры","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150443"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e3","name":"Сварка взрывом","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150444"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e4","name":"Сварка под слоем флюса","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150445"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e5","name":"Сварка трением","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150446"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e6","name":"Сварка труб","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150447"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e7","name":"Термитная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150448"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e8","name":"Ультразвуковая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150449"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6e9","name":"Химическая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044a"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6ea","name":"Холодная сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044b"},"tomsgroup_key":"604f1d0f4b2ca10006d4441b","id_name":"5f51fda156a0c50b1a44c6eb","name":"Электронно-лучевая сварка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044c"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6ec","name":"Литье металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044d"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6ed","name":"Литье в жидкие самотвердеющие смеси (ЖСС)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044e"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6ee","name":"Литье в керамические формы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615044f"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6ef","name":"Литье в кокиль","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150450"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f0","name":"Литье в оболочковые формы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150451"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f1","name":"Литье в песчаные формы (ПГС)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150452"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f2","name":"Литье в формы с наружным отверждением","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150453"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f3","name":"Литье в холоднотвердеющие смеси (ХТС)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150454"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f4","name":"Литье в шаблонные формы","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150455"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f5","name":"Литье под давлением","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150456"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f6","name":"Литье по легко выплавляемым моделям (ЛВМ)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150457"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f7","name":"Литье по легко газифицируемым моделям (ЛГМ)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150458"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f8","name":"Литье по чертежам заказчика","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150459"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6f9","name":"Литье с безопочной формовкой","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045a"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6fa","name":"Литье с вакуумной формовкой","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045b"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6fb","name":"Литье с вакуумно-плёночной формовкой","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045c"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6fc","name":"Литье со стопочной формовкой","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045d"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6fd","name":"Центробежное литье","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045e"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6fe","name":"Центробежное электрошлаковое литье (ЦЭШЛ)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615045f"},"tomsgroup_key":"604f1d2e4b2ca10006d4441d","id_name":"5f51fda156a0c50b1a44c6ff","name":"Электрошлаковое литье (ЭШЛ)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150460"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c700","name":"Обработка металлов давлением","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150461"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c701","name":"Волочение","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150462"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c702","name":"Вырубка металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150463"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c703","name":"Ковка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150464"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c704","name":"Листовая штамповка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150465"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c705","name":"Объёмная штамповка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150466"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c706","name":"Перфорация металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150467"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c707","name":"Правка плоского металлопроката","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150468"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c708","name":"Прессование металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150469"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c709","name":"Пробивка металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046a"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70a","name":"Прокатка металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046b"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70b","name":"Прокатка-волочение","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046c"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70c","name":"Прокатка-прессование","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046d"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70d","name":"Пуклевание","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046e"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70e","name":"Раскатка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615046f"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c70f","name":"Раскрой металла на координатно-пробивном прессе","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150470"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c710","name":"Ротационная вытяжка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150471"},"tomsgroup_key":"604f1d494b2ca10006d4441f","id_name":"5f51fda156a0c50b1a44c711","name":"Художественная ковка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150472"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c712","name":"3D печать металлом (SLM)","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150473"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c713","name":"Визуально-измерительный контроль","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150474"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c714","name":"Дробеструйная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150475"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c715","name":"Контроль проникающими веществами","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150476"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c716","name":"Лазерная гравировка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150477"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c717","name":"Магнитнопорошковый контроль","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150478"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c718","name":"Маркировка плазмой","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150479"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c719","name":"Обработка в галтовочном барабане","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047a"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71a","name":"Обработка в дробемёте","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047b"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71b","name":"Перемотка рулонов металла","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047c"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71c","name":"Пескоструйная обработка","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047d"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71d","name":"Покраска кистью","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047e"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71e","name":"Покраска краскопультом","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c2000615047f"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c71f","name":"Порошковая покраска","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150480"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c720","name":"Разработка 3D моделей по чертежам","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150481"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c721","name":"Разработка конструкторской документации","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150482"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c722","name":"Разработка технологических процессов","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150483"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c723","name":"Ультразвуковая толщинометрия","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150484"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c724","name":"Ультразвуковой контроль","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150485"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c725","name":"Химический анализ","enabled":true}
+{"_id":{"$oid":"61fb9363caf8c20006150486"},"tomsgroup_key":"604f1d614b2ca10006d44421","id_name":"5f51fda156a0c50b1a44c726","name":"Заточка инструмента","enabled":true}

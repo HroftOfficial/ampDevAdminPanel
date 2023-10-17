@@ -1,0 +1,81 @@
+.topbar {
+    width: 100%;
+    height: 70px;
+    background: white;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.topbarWrapper {
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* .logo {
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 30px;
+    color: darkblue
+} */
+
+
+.logo{
+    --c: darkblue;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 0px 15px;
+    line-height: 1.2em;
+    /* background: 
+      conic-gradient(from -135deg at 100%  50%,#fff  90deg,#0000 0) 0    var(--p,0%),
+      conic-gradient(from -135deg at 1.2em 50%,#0000 90deg,#fff  0) 100% var(--p,0%),
+      var(--c);
+    -webkit-background-clip: text;
+            background-clip: text;
+    background-size: var(--s, 0%) 200%;
+    background-repeat: no-repeat;
+    color: transparent;
+    position: relative;
+    transition: .4s ease-in, background-position 0s; */
+  }
+
+
+
+
+.topRight {
+    display: flex;
+    align-items: center;
+}
+
+.topbarIconContainer {
+    position: relative;
+    cursor: pointer;
+    margin-right: 10px;
+    color:#555;
+}
+
+.topIconBadge {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+
+.topAvatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
